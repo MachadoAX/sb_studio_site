@@ -1,0 +1,15 @@
+.bg-contato{
+    background-image: url('../assets/img/bg-studio.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.overlay{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-size:  cover ;
+
+}

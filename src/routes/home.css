@@ -1,0 +1,9 @@
+.home {
+    background-image: url('/src/assets/img/bg-studio.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    height: 100vh;
+    background-color: black;
+}
